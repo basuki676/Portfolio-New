@@ -6,11 +6,6 @@ export const Socials = [
     src: "/instagram.svg",
     link: "https://www.instagram.com/basuuki.r/",
   },
-  {
-    name: "Facebook",
-    src: "/facebook.svg",
-    link: "https://www.facebook.com/basuuki.r/",
-  },
 ];
 
 const Navbar = () => {
